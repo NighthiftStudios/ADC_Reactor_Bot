@@ -8,7 +8,5 @@
 	"conEmoji": "❌",
 	"threshold": null,
 	"exemptRoles": [],
-	"exemptUsers": [],
-	"managerRoles": [],
-	"managerUsers": []
+	"exemptUsers": []
 }
