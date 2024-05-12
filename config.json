@@ -1,0 +1,14 @@
+{
+	"token": "",
+    "guildId": "",
+    "clientId": "",
+    "reactionChannel": "",
+    "thresholdChannel": "",
+    "proEmoji": "✅",
+    "conEmoji": "❌",
+    "threshold": null,
+    "exemptRoles": [],
+    "exemptUsers": [],
+    "managerRoles": [],
+    "managerUsers": []
+}

@@ -1,0 +1,20 @@
+{
+  "name": "acd-reactor",
+  "version": "1.0.0",
+  "description": "Armed Disease Control Reactor Bot. Discord.JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "js",
+    "reaction"
+  ],
+  "author": "NightShift101",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.15.2",
+    "fs": "^0.0.1-security"
+  }
+}
